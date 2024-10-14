@@ -1,0 +1,120 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;/*shows what applies to everything on the page*/
+}
+
+body {
+    background-color: #d9dcd6; /*this creates the background color*/
+}
+
+header {
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #404c53;
+    color: #ffffff; /*this shows the header's background color, text color, and the type of font*/
+}
+
+header h1 {
+    display: inline-block;
+    font-size: 48px; /*shows the font size and placement*/
+}
+
+
+header nav {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;/*shows the navagtion links css property's*/
+}
+
+header nav ul {
+    list-style-type: inline-block; /*displays the way the list of navagations appear*/ 
+}
+
+header nav ul li {
+    display: inline-block;
+    margin-left: 25px;/* shows how far to the left the navagation start as well as the text being in line*/
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;/*shows text color of the links and the decoration which is none*/
+}
+
+.float-left {
+    float: left;
+    margin-right: 25px;/*shows the images postion to the left within that article*/
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;/*shows the images postion to the right witin that article*/
+}
+
+main{
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;/*shows several propeties within the main element*/
+}
+
+main article {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;/*shows several properties for thew whole of the main article */
+}
+
+
+main article img {
+    max-height: 200px;/* shows the max hight of the images within the main article*/
+}
+
+
+main article h2 {
+    margin-bottom: 20px;
+    font-size: 36px;/*shows the font size and location of the content within h2*/
+}
+
+.benefits {
+    margin-right: 20px;
+    padding: 20px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #2589bd;/*shows several properties of the benefits aside class*/
+}
+
+.benefit-section {
+    margin-bottom: 32px;
+    color: #ffffff;/*location on page as well as text color*/
+}
+
+
+.benefit-section h3 {
+    margin-bottom: 10px;
+    text-align: center;/*text alignment and the distance between h3 and the image underneath*/
+}
+
+.benefit-section img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px; /*shows provided image and its style*/
+}
+
+
+footer{
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;/*shows the footers font,size, and alignment*/
+}
+
+footer h4 {
+    font-size: 20px;/*shows the footers font size*/
+}
