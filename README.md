@@ -1,5 +1,42 @@
-# React-Portfolio
+React Portfolio
 
-I encourage you to revisit the built-in features of **‘create-react-app’** and explore its overall structure, component-based design, and inheritance. React is an amazing front-end framework, and the way it integrates with Node.js on the back end makes it a powerful tool in your development journey
+Description: This React portfolio is a personal website that showcases my skills, projects, and experiences.
 
-Here’s a breakdown of areas to improve ,Header Component: Great job creating a reusable Header with conditional rendering of the **About Me**, **Portfolio**, **Contact**, and **Resume** sections. Project Component: The Portfolio section could benefit from a reusable **Project component** to display each project. This would reduce code duplication and make it easier to manage. Footer Component:** Adding a **Footer component** that appears across multiple pages will enhance the structure and user experience. About Me Section:** This section is missing a **photo/avatar** and a **bio**. Including these will help personalize your portfolio.Portfolio Section: Aim to include **6 deployed projects** with images, along with links to both the **deployed applications** and their corresponding **repositories**. Contact Section: Adding a **contact form with field validation will elevate this section and ensure it works seamlessly. Resume Section: Make sure to include a **link to download your resume** and provide a **list of your proficiencies** here.README: A high-quality README will tie everything together. Be sure to include **screenshots, a description,** and a **link to the deployed application** so others can easily explore your work.
+Table of Contents:
+-About The Project
+-Built With
+-Prerequisites
+-Roadmap
+-Contributing
+-Contact
+-Live site link
+
+About: I created this porfolio using react to showcase my skills in mulitple areas.
+
+Built with: 
+React
+HTML
+CSS
+Javascript
+Vscode
+Github
+Render 
+Git bash terminal
+
+Prerequisites:
+Node Packages
+
+Roadmap: 
+1-Build a base professional site
+2-improve functionality 
+3-add content as needed 
+
+Contributing:
+Andrew Brown
+Tutors
+
+Contact:
+email: andrewmbrown97@gmail.com
+github: https://github.com/AndrewBrown77
+
+Link to site:
