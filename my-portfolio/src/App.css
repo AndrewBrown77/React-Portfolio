@@ -42,5 +42,14 @@
 }
 
 .About {
-  color: red;
+  color:black;
+}
+
+.Header {
+  color: black;
+  background-color: violet;
+}
+
+.Footer {
+  background-color: violet;
 }

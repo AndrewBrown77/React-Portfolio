@@ -1,6 +1,8 @@
 function Footer(){
     return(
-        <a>Andrew Brown</a>
+        <div className="Footer">
+        <a>Made by Andrew Brown</a>
+        </div>
     )
 }
 
