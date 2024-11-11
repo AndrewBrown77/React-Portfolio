@@ -1,42 +1,8 @@
-React Portfolio
+# React + Vite
 
-Description: This React portfolio is a personal website that showcases my skills, projects, and experiences.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Table of Contents:
--About The Project
--Built With
--Prerequisites
--Roadmap
--Contributing
--Contact
--Live site link
+Currently, two official plugins are available:
 
-About: I created this porfolio using react to showcase my skills in mulitple areas.
-
-Built with: 
-React
-HTML
-CSS
-Javascript
-Vscode
-Github
-Render 
-Git bash terminal
-
-Prerequisites:
-Node Packages
-
-Roadmap: 
-1-Build a base professional site
-2-improve functionality 
-3-add content as needed 
-
-Contributing:
-Andrew Brown
-Tutors
-
-Contact:
-email: andrewmbrown97@gmail.com
-github: https://github.com/AndrewBrown77
-
-Link to site:
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
