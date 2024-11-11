@@ -45,11 +45,11 @@
   color:black;
 }
 
-.Header {
-  color: black;
-  background-color: violet;
+.name {
+  color: green;
+  margin-right: 77%;
 }
 
-.Footer {
+body {
   background-color: violet;
 }

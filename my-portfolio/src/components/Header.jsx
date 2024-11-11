@@ -3,11 +3,10 @@ const Header = () => {
       <div
         className="Header"
       >
-          <div className="pb-8">
-            <p className="header">
-              Andrew Brown
-            </p>
-          </div>
+          <div className="name">
+            <h1>Andrew Brown</h1>
+            <link rel="icon" href="About" />
+           </div>
         </div>
     );
   };
